@@ -8,7 +8,7 @@ jobs:
 # This workflow contains multiple jobs
  Build:
   name: BuildApp
-# The type of runner that the job will run on
+# The type of runner that the job will run on testing
   #runs-on: ubuntu-latest
   runs-on: self-hosted
   #runs-on: shaun-windows-runner
